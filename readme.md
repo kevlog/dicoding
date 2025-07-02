@@ -11,7 +11,7 @@ Di dalamnya terdapat berbagai materi, proyek, dan catatan yang saya kumpulkan se
 
 Berikut adalah beberapa link penting yang dapat diakses langsung:
 
-Belajar Dasar Pemrograman Web, Submission → [belajar-dasar-pemrograman-web/submission](https://hikvn.my.id/dicoding/belajar-dasar-pemrograman-web/submission/)
+- Belajar Dasar Pemrograman Web, Submission → [belajar-dasar-pemrograman-web/submission](https://hikvn.my.id/dicoding/belajar-dasar-pemrograman-web/submission/)
 
 *(Daftar ini akan terus bertambah seiring dengan bertambahnya kelas yang saya ikuti.)*
 
