@@ -29,7 +29,7 @@ const header = `# 📚 Dokumentasi Perjalanan Belajar di Dicoding
 
 Selamat datang di repositori ini!
 
-Repositori ini berisi dokumentasi hasil belajar saya di platform [Dicoding Indonesia](w).  
+Repositori ini berisi dokumentasi hasil belajar saya di platform Dicoding Indonesia.
 Di dalamnya terdapat berbagai materi, proyek, dan catatan yang saya kumpulkan selama mengikuti kelas-kelas di Dicoding.
 
 ---
@@ -49,8 +49,8 @@ const content = `
 - HTML, CSS, JavaScript
 - Git & GitHub
 - Markdown
-- [Visual Studio Code](w)
-- GitHub Pages dengan [Jekyll](w)
+- Visual Studio Code
+- GitHub Pages
 
 ---
 
