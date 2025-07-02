@@ -1,0 +1,12 @@
+# 📚 Dokumentasi Perjalanan Belajar di Dicoding
+
+Selamat datang di repositori ini!
+
+Repositori ini berisi dokumentasi hasil belajar saya di platform Dicoding Indonesia.
+Di dalamnya terdapat berbagai materi, proyek, dan catatan yang saya kumpulkan selama mengikuti kelas-kelas di Dicoding.
+
+---
+
+## 🔗 Tautan Akses Cepat
+
+Berikut adalah beberapa link penting yang dapat diakses langsung:

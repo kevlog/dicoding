@@ -1,0 +1,36 @@
+
+*(Daftar ini akan terus bertambah seiring dengan bertambahnya kelas yang saya ikuti.)*
+
+---
+
+## 🧰 Teknologi & Tools yang Digunakan
+
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Markdown
+- Visual Studio Code
+- GitHub Pages
+
+---
+
+## 📝 Tujuan Repositori Ini
+
+- Menyimpan semua hasil belajar saya secara terstruktur.
+- Menjadi dokumentasi pribadi yang terbuka untuk publik.
+- Sebagai portofolio kecil dari progres pembelajaran saya.
+
+---
+
+## 📌 Catatan
+
+📌 Repositori ini disusun dengan struktur direktori berdasarkan nama kelas Dicoding.  
+Setiap folder berisi submission, latihan, serta dokumentasi terkait materi tersebut.
+
+---
+
+## 📫 Kontak
+
+Jika ingin berdiskusi, silakan kunjungi:  
+🌐 [hikvn.my.id](https://hikvn.my.id)
+
+---
