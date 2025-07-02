@@ -27,7 +27,7 @@ function scanDir(dir, relativePath = "") {
       // Cek apakah folder ini punya index.html
       const indexFile = path.join(fullPath, "index.html");
       if (fs.existsSync(indexFile)) {
-        listLinks.push(`${pageTitle} → [${relPath}](${baseUrl}/${relPath.replace(/\\/g, "/")}/)`);
+        listLinks.push(`- ${pageTitle} → [${relPath}](${baseUrl}/${relPath.replace(/\\/g, "/")}/)`);
       }
 
       scanDir(fullPath, relPath);
